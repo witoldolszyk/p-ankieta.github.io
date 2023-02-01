@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/p-ankieta.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/p-ankieta.github.io/static/js/main.89da38e0.js",
+    "index.html": "/p-ankieta.github.io/index.html",
+    "main.e6c13ad2.css.map": "/p-ankieta.github.io/static/css/main.e6c13ad2.css.map",
+    "main.89da38e0.js.map": "/p-ankieta.github.io/static/js/main.89da38e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.89da38e0.js"
+  ]
+}
